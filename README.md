@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Alejandro 👋
 
-<!--
-**Alejandro8104/Alejandro8104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineer
 
-Here are some ideas to get you started:
+I am passionate about mobile development and creating efficient cross-platform solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **my own cross-platform event management app.**
+- 🌱 I’m currently learning **how to build better apps every day.**
+- 💬 Ask me about **anything! I am open to any question.**
+- ⚡ Fun fact: **I am fascinated by everything human beings are capable of creating.**
+
+---
+
+### 🛠 Tech Stack
+
+* **Languages:** Dart
+* **Frameworks:** Flutter
+* **Editor:** VS Code
+
+---
+
+### 📫 Connect with me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alejandro-ramos-8104-dev)
